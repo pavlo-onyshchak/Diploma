@@ -1,0 +1,8 @@
+<RCC>
+    <qresource prefix="/">
+        <file>img/switchOff.png</file>
+        <file>img/switchOn.png</file>
+        <file>img/instagramOff.png</file>
+        <file>img/instagramOn.png</file>
+    </qresource>
+</RCC>
